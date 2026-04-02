@@ -1,0 +1,9 @@
+def cikarma(a,b):
+        return a-b
+
+
+
+def main():
+        print(cikarma(60,8))
+if __name__ == '__main__':
+      main()
