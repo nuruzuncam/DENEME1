@@ -1,0 +1,9 @@
+def carpma(a,b):
+        return a*b
+
+
+
+def main():
+        print(carpma(22,5))
+if __name__ == '__main__':
+      main()
