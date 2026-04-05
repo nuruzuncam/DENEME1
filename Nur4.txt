@@ -1,0 +1,9 @@
+def tambolme(a,b):
+        return a//b
+
+
+
+def main():
+        print(tambolme(75,2))
+if __name__ == '__main__':
+      main()
