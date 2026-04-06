@@ -1,0 +1,9 @@
+def mod (a,b):
+        return a%b
+
+
+
+def main():
+        print(mod (45,4))
+if __name__ == '__main__':
+      main()
